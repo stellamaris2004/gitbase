@@ -1,10 +1,4 @@
 
-  body {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(85, 13, 13);
-  }
-  
-  
   .successful {
     display: none;
   }
@@ -18,7 +12,7 @@
     margin-top: 11px;
     padding: 11px;
     border-radius: 4px;
-    color: #ebe5e5;
+    color: #0a0a0a;
   }
   input[type="text"],
   input[type="email"],
@@ -32,6 +26,6 @@
     margin: 8px 0;
     box-sizing: border-box;
     border-radius: 4px;
-background-color: #070502;
+background-color: #f7f7f7;
 color: #fcf7f7;
   }
