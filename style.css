@@ -1,0 +1,37 @@
+
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(85, 13, 13);
+  }
+  
+  
+  .successful {
+    display: none;
+  }
+  
+  .successful.show{
+    display: block;
+    color:#04aa4f;
+  }
+  
+  fieldset {
+    margin-top: 11px;
+    padding: 11px;
+    border-radius: 4px;
+    color: #ebe5e5;
+  }
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  input[type="password"]
+  
+  {
+    transition: width 0.4s ease-in-out;
+    width: 100%;
+    padding: 12px 25px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 4px;
+background-color: #070502;
+color: #fcf7f7;
+  }
